@@ -1,1 +1,1 @@
-# github_basics
+# This Repo contains data science mini projects
